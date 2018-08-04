@@ -11,8 +11,8 @@ public class TC002_CreateLead2 extends Annotations {
 	@BeforeTest
 	public void setValues() {
 		excelFileName = "CreateLeadData";
-		testName = "Create Lead";
-		testDescription = "Create a lead";
+		testName = "Create Lead2";
+		testDescription = "Create a lead2";
 		category = "smoke";
 		author = "Sruthi";
 		moduleName = "Leads";
