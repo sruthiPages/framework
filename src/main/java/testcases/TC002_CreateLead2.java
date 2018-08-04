@@ -13,7 +13,7 @@ public class TC002_CreateLead2 extends Annotations {
 		excelFileName = "CreateLeadData";
 		testName = "Create Lead2";
 		testDescription = "Create a lead2";
-		category = "smoke";
+		category = "sanity"; //changed by sruthi
 		author = "Sruthi";
 		moduleName = "Leads";
 		System.out.println("Checking git");//changed by Sneha
