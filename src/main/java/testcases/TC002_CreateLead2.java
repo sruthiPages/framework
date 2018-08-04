@@ -16,7 +16,7 @@ public class TC002_CreateLead2 extends Annotations {
 		category = "smoke";
 		author = "Sruthi";
 		moduleName = "Leads";
-		System.out.println("Setting Values");
+		System.out.println("Checking git");//changed by Sneha
 	}
 	
 	@Test(dataProvider = "fetchData")
